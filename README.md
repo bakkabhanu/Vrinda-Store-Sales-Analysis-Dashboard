@@ -1,4 +1,4 @@
-# Vrinda-Store-Sales-Analysis-Dashboard
+# Vrinda-Store-Sales-Analysis-Dashboard-Excel
 📊 Vrinda Store Sales Analysis Dashboard (Microsoft Excel)
 **📌 Project Overview**
 
